@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/1f3b81b1-9baa-4c4b-b384-34a6988b093d
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Overview & Highlights: Covers the Selected Works Constellation hero, generative Web Audio chord progression (Fmaj9 → Em7 → Dm9 → Cmaj9), 13 filterable repositories, section-wise CV layout, and mobile/tablet/desktop responsiveness.
+Section Breakdown: Documents every portfolio section (01. Profile through 07. Direct Contact plus Academic References).
+Project Directory Table: Lists all 13 projects with their categories, stacks, and direct links to your GitHub repositories.
+Tech Stack & Project Structure: Accurate overview of React 19, TypeScript, Tailwind CSS v4, Motion, Lucide React, Vite 8, and key directories (src/components/, src/data/cvData.ts, src/utils/ambientSound.ts).
+Setup & Scripts: Ready-to-run commands for npm install, npm run dev (port 3000), npm run lint, and npm run build. (Replace <your-portfolio-repo> in the clone URL once you create the repo on GitHub.)
